@@ -75,6 +75,10 @@ Accordin to the assignment guidelines:
 > 
 > ![Plot4](required_images/ExDataCP1Plot4.png)
 
+## Details about the libraries used
+- The scripts were made using R(version 3.6.1).
+- The library 'dplyr' version 0.8.0.1 was used.
+
 ## Details on the files that exist in this repository
 ### README.md 
 It is the file you read right now and tries to explain the purpose and
