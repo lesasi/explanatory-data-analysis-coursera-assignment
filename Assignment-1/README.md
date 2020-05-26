@@ -58,22 +58,22 @@ Accordin to the assignment guidelines:
 > ### Plot 1
 > 
 > 
-> ![Plot1](Assignment-1/required_images/ExDataCP1Plot1.png) 
+> ![Plot1](required_images/ExDataCP1Plot1.png) 
 > 
 > 
 > ### Plot 2
 > 
-> ![Plot2](Assignment-1/required_images/ExDataCP1Plot2.png) 
+> ![Plot2](required_images/ExDataCP1Plot2.png) 
 > 
 > 
 > ### Plot 3
 > 
-> ![Plot3](Assignment-1/required_images/ExDataCP1Plot3.png) 
+> ![Plot3](required_images/ExDataCP1Plot3.png) 
 > 
 > 
 > ### Plot 4
 > 
-> ![Plot4](Assignment-1/required_images/ExDataCP1Plot4.png)
+> ![Plot4](required_images/ExDataCP1Plot4.png)
 
 ## Details on the files that exist in this repository
 ### README.md 
