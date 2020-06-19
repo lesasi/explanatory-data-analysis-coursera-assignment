@@ -1,5 +1,5 @@
 ##############################
-# NOTE: This is a script to download the 'household_power_consumption.txt' dataset if the directory 'UCI HAR Dataset' 
+# NOTE: This is a script to download the 'household_power_consumption.txt' dataset if the file  
 # doesn't exist- or if the zip has been downloaded, simply unzips it
 
 # Download Link
